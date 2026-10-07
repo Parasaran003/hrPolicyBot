@@ -6,7 +6,7 @@ spring:
         embedding:
           api-key: ${GOOGLE_GENAI_API_KEY}
         chat:
-          model: gemini-3.8-flash
+          model: gemini-1.5-flash
   cache:
     type: caffeine
     caffeine:
