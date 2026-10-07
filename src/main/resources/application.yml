@@ -1,0 +1,13 @@
+spring:
+  ai:
+    google:
+      genai:
+        api-key: ${GOOGLE_GENAI_API_KEY}
+        embedding:
+          api-key: ${GOOGLE_GENAI_API_KEY}
+        chat:
+          model: gemini-3.8-flash
+  cache:
+    type: caffeine
+    caffeine:
+      spec: maximumSize=500,expireAfterWrite=60m

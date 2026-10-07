@@ -1,0 +1,104 @@
+Employee Handbook & Global HR Policy
+Company: Saran AI Solutions
+
+Effective Date: January 1, 2026
+
+Last Updated: September 30, 2026
+
+1. Introduction & Purpose
+   The purpose of this handbook is to establish a shared understanding of the values, expectations, and operational guidelines that drive Saran AI Solutions. We are committed to fostering a safe, inclusive, and high-performing environment where everyone has the tools and support needed to thrive. This document serves as the foundational guide for workplace conduct, benefits, and compliance.
+
+2. Scope of Policy
+   As a modern, globally distributed organization, our definition of the "workforce" extends beyond traditional employment. This policy applies to all individuals and entities engaged with or representing Saran AI Solutions in any capacity, across all geographical locations and operational domains.
+
+Specifically, the rules, ethical standards, and protections outlined in this document apply to:
+
+* All Employment Types: Regular full-time, part-time, temporary, and probationary employees.
+
+* The Extended Workforce: Independent contractors, freelancers, gig workers, and consultants retained by the company.
+
+* Learners & Trainees: Interns, apprentices, and shadowing students.
+
+* Global & Subsidiary Operations: Employees of all global branches, wholly-owned subsidiaries, and joint ventures under the Saran AI Solutions umbrella.
+
+* Geographic Flexibility: All staff regardless of work model—including fully remote workers, hybrid employees, digital nomads, and on-site personnel.
+
+* Third-Party Partners: Vendors, suppliers, and agency staff while they are physically on company premises, attending company-sponsored events, or accessing company digital networks/systems.
+
+Note: While core benefits and compensation structures may vary based on local labor laws and contract types, our standards for respect, safety, data security, and ethical conduct are universal and non-negotiable for anyone falling under this scope.
+
+3. Equal Employment Opportunity & Inclusion
+   Saran AI Solutions is an equal opportunity employer. We strictly prohibit discrimination or harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+We actively promote a culture of inclusion where diverse voices are celebrated and accommodations are provided to ensure equal access to workplace opportunities.
+
+4. Code of Conduct & Professional Ethics
+   Every individual covered by this policy is expected to act with integrity, professionalism, and respect.
+
+* Respectful Workplace: Bullying, micro-aggressions, and harassment (physical, verbal, or digital) will result in immediate disciplinary action.
+
+* Conflict of Interest: Personnel must disclose any external relationships, financial interests, or side-businesses that may conflict with the company's goals or their professional duties.
+
+* Asset & Resource Usage: Company-provided equipment, software, and funds must be used strictly for legitimate business purposes.
+
+5. Work Location, Remote Logistics, and Tax Compliance
+   Saran AI Solutions embraces a borderless work model. We measure success by output, impact, and collaboration, not by physical location. To ensure all team members are fully supported and that both the employee and the company remain legally compliant, the following policies apply to all remote and roaming employees.
+
+5.1 Remote Work Equipment and Setup
+We believe your home office should be as ergonomic and productive as our corporate hubs. The company provides the following to all full-time and eligible part-time employees:
+
+* Standard Hardware: A company-issued laptop, privacy screen, and any necessary peripheral security keys (e.g., YubiKey) will be shipped to your location prior to your start date. All hardware remains the property of Saran AI Solutions and must be returned upon termination of employment.
+
+* Home Office Stipend: Employees receive a one-time \$750 (or local currency equivalent) remote setup stipend upon hire to purchase ergonomic furniture (desk, chair) and external monitors.
+
+* Monthly Connectivity & Wellness Allowance: To cover the ongoing costs of remote work, employees receive a monthly stipend of \$100 (or local currency equivalent). This can be applied toward high-speed internet bills, co-working space day passes, or wellness subscriptions.
+
+5.2 Work Location Flexibility & Digital Nomad Policy
+Employees have the autonomy to work from anywhere that provides a secure, private internet connection, subject to the following geographical and compliance boundaries:
+
+* Core Hours: Regardless of physical location, employees must maintain availability during their team’s established "core collaboration hours" (typically a 4-hour window agreed upon with the direct manager) to facilitate synchronous meetings.
+
+* Short-Term Travel (Under 30 Days): Employees may work temporarily from another state or country for up to 30 days per calendar year without requiring formal HR approval, provided they notify their manager and maintain core hours.
+
+* Security Requirements in Public Spaces: When working from cafes, airports, or co-working spaces, employees must use the company VPN, employ a privacy screen, and never discuss confidential company or client information in areas where conversations can be overheard.
+
+5.3 Tax Residency and Legal Compliance
+Global mobility introduces complex tax and legal liabilities for both the employee and<selection-tag> Saran AI Solutions</selection-tag>. To prevent the unintended triggering of dual taxation or the creation of a "Permanent Establishment" (which subjects the company to foreign corporate taxes), the following rules are strictly enforced:
+
+* The 183-Day Rule: In most global jurisdictions, spending 183 days or more in a country during a 12-month period automatically triggers tax residency. If you trigger tax residency in a new location, you become liable for local income taxes on your worldwide income.
+
+* Approval for Long-Term Relocation: Any employee wishing to work from a location outside their official "Home Country of Employment" for more than 60 days in a calendar year must receive written approval from the HR and Global Mobility teams.
+
+* Digital Nomad Visas: Employees utilizing a "Digital Nomad Visa" in a foreign country are solely responsible for understanding the local laws. Note that holding a digital nomad visa does not exempt you from local tax residency if you breach the physical presence thresholds of that country.
+
+* No Local Contracting: Employees working remotely from a foreign jurisdiction are strictly prohibited from engaging in local sales, signing contracts on behalf of the company, or soliciting local clients, as this can trigger immediate corporate tax liabilities for Saran AI Solutions.
+
+* Truthful Reporting: Employees must keep their physical address updated in the central HRIS portal. Misrepresenting your work location to evade taxes or bypass location-based pay bands is considered a severe breach of the Code of Conduct and will result in disciplinary action up to and including termination.
+
+6. Compensation, Leaves, and Benefits
+   (Specifics vary by region and contract type; please refer to your localized addendum)
+
+* Paid Time Off (PTO): We operate on a "Flexible Time Off" model. Employees are encouraged to take a minimum of 20 days off per year to rest and recharge.
+
+* Global Holidays: Employees may swap local public holidays for cultural or religious holidays that are meaningful to them.
+
+* Leave Types: We offer comprehensive parental leave (for all genders and paths to parenthood), bereavement leave, and medical leave.
+
+7. Data Security and Confidentiality
+   Given the expanded scope of our workforce, protecting client and company data is a shared responsibility.
+
+* All personnel, including contractors and vendors, must adhere to our strict cybersecurity protocols.
+
+* The sharing of proprietary information, trade secrets, or unreleased product details with unauthorized third parties or on social media is strictly forbidden.
+
+* All devices accessing company data must be secured with Multi-Factor Authentication (MFA) and approved endpoint management software.
+
+8. Reporting & Whistleblower Protection
+   We encourage everyone to speak up if they witness a violation of this policy.
+
+* Reports can be made to any direct manager, the HR department, or anonymously via our third-party Whistleblower Hotline.
+
+* Saran AI Solutions strictly prohibits any form of retaliation against individuals who report concerns in good faith.
+
+9. Acknowledgment
+   By continuing engagement with Saran AI Solutions, you acknowledge that you have read, understood, and agreed to adhere to the policies outlined in this handbook.
